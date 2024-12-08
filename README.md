@@ -46,9 +46,15 @@
 
 ---
 
-## 📸 **Contact**
-For help, contact me @ 101rishidsr@gmial.com
+## 💬 **Contact Me for Help**
 
+📧 **Email:** [101rishidsr@gmail.com](mailto:101rishidsr@gmail.com)
+
+---
+
+<div align="center">
+
+🔥 **Thank you for checking out CohortLab!** 🔥
 
 
 ---
