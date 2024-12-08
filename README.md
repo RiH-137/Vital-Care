@@ -46,18 +46,9 @@
 
 ---
 
-## 📸 **Screenshots**
+## 📸 **Contact**
+For help, contact me @ 101rishidsr@gmial.com
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-screenshot-path-1" alt="Doctor Dashboard" width="600"/>
-  <br/>
-  <em>Doctor Dashboard</em>
-</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-screenshot-path-2" alt="Patient Appointment Page" width="600"/>
-  <br/>
-  <em>Patient Appointment Page</em>
-</p>
 
 ---
