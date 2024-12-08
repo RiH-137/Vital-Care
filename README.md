@@ -12,8 +12,9 @@
 ---
 
 <p align="center">
-  ![Vital Care logo](https://github.com/user-attachments/assets/33c4e75b-54b7-4f32-9959-f82a6b170be5)
+  <img src="https://github.com/user-attachments/assets/33c4e75b-54b7-4f32-9959-f82a6b170be5" alt="Vital Care logo" width="400"/>
 </p>
+
 
 ## 🛠️ **Tech Stack**
 
